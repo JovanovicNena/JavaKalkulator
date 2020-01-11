@@ -63,4 +63,3 @@ function getNumber(num) {
        ans=Math.floor(+eval(input_var.value));
        document.getElementById('answer').value='='+ans;
    }
-    
